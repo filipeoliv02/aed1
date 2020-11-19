@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/filipe/Documents/university/AED1/aed1_pl_2021/libs_src/lib_util.h
+stdio.h
+-
+math.h
+-
+stdlib.h
+-
+windows.h
+-
+sys/time.h
+-
+
+/home/filipe/Documents/university/AED1/aed1_pl_2021/pr01.c
+pr01.h
+/home/filipe/Documents/university/AED1/aed1_pl_2021/pr01.h
+
+/home/filipe/Documents/university/AED1/aed1_pl_2021/pr01.h
+libs_src/lib_util.h
+/home/filipe/Documents/university/AED1/aed1_pl_2021/libs_src/lib_util.h
+

@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="AED1" targetName="AED1" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="37f4e503-9ef5-4366-a8ee-fe6d5d20a0c2" name="Default Changelist" comment="pr01">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< HEAD
+=======
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/AED1" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/AED1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AED1.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AED1.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AED1.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AED1.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AED1.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AED1.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pr01.c" beforeDir="false" afterPath="$PROJECT_DIR$/pr01.c" afterDir="false" />
+>>>>>>> 779a1b09dc61bc4cf92045108c16f0ffe2c669cc
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/exportToHTML" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1hggRIP0a37mKlguPr7O3U4HTkQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="CMake Application.AED1">
+    <configuration name="AED1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AED1" TARGET_NAME="AED1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AED1" RUN_TARGET_NAME="AED1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="aed1_2021" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AED1" TARGET_NAME="aed1_2021" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AED1" RUN_TARGET_NAME="aed1_2021">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.AED1" />
+      <item itemvalue="CMake Application.aed1_2021" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="37f4e503-9ef5-4366-a8ee-fe6d5d20a0c2" name="Default Changelist" comment="" />
+      <created>1600438140329</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600438140329</updated>
+      <workItem from="1600438141478" duration="1012000" />
+      <workItem from="1600537521508" duration="1109000" />
+      <workItem from="1600538661555" duration="9057000" />
+      <workItem from="1600706063280" duration="109000" />
+      <workItem from="1600706733100" duration="611000" />
+      <workItem from="1600712921736" duration="357000" />
+      <workItem from="1600713280561" duration="317000" />
+      <workItem from="1600714002563" duration="4758000" />
+      <workItem from="1600719050517" duration="107000" />
+      <workItem from="1600724169080" duration="29000" />
+      <workItem from="1601313694812" duration="5438000" />
+      <workItem from="1601324788709" duration="16000" />
+      <workItem from="1601575191111" duration="15000" />
+<<<<<<< HEAD
+      <workItem from="1601859910169" duration="2000" />
+      <workItem from="1601859960691" duration="150000" />
+      <workItem from="1602011214904" duration="518000" />
+=======
+      <workItem from="1601849493745" duration="2121000" />
+      <workItem from="1601851894591" duration="4708000" />
+>>>>>>> 779a1b09dc61bc4cf92045108c16f0ffe2c669cc
+    </task>
+    <task id="LOCAL-00001" summary="gfndgd">
+      <created>1601314055289</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601314055289</updated>
+    </task>
+    <task id="LOCAL-00002" summary="pr01">
+      <created>1601319124908</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1601319124908</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="gfndgd" />
+    <MESSAGE value="pr01" />
+    <option name="LAST_COMMIT_MESSAGE" value="pr01" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600537565210">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="184" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877@0.23.1440.877" timestamp="1600537565210" />
+    <state x="487" y="57" width="426" height="479" key="FileChooserDialogImpl" timestamp="1601858459900">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="463" y="69" width="426" height="479" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1601324803331" />
+    <state x="487" y="57" key="FileChooserDialogImpl/0.0.1440.900@0.0.1440.900" timestamp="1601858459900" />
+    <state width="1392" height="230" key="GridCell.Tab.0.bottom" timestamp="1601858461173">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1318" height="185" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1601319132846" />
+    <state width="1392" height="230" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1601858461173" />
+    <state width="1398" height="286" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1600537505138" />
+    <state width="1398" height="276" key="GridCell.Tab.0.bottom/0.23.1920.1057@0.23.1920.1057" timestamp="1600680829678" />
+    <state width="1392" height="230" key="GridCell.Tab.0.center" timestamp="1601858461173">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1318" height="185" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1601319132846" />
+    <state width="1392" height="230" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1601858461173" />
+    <state width="1398" height="286" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1600537505137" />
+    <state width="1398" height="276" key="GridCell.Tab.0.center/0.23.1920.1057@0.23.1920.1057" timestamp="1600680829677" />
+    <state width="1392" height="230" key="GridCell.Tab.0.left" timestamp="1601858461172">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1318" height="185" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1601319132845" />
+    <state width="1392" height="230" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1601858461172" />
+    <state width="1398" height="286" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1600537505133" />
+    <state width="1398" height="276" key="GridCell.Tab.0.left/0.23.1920.1057@0.23.1920.1057" timestamp="1600680829676" />
+    <state width="1392" height="230" key="GridCell.Tab.0.right" timestamp="1601858461173">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1318" height="185" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1601319132846" />
+    <state width="1392" height="230" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1601858461173" />
+    <state width="1398" height="286" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1600537505138" />
+    <state width="1398" height="276" key="GridCell.Tab.0.right/0.23.1920.1057@0.23.1920.1057" timestamp="1600680829677" />
+    <state width="1398" height="276" key="GridCell.Tab.1.bottom" timestamp="1600680829679">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1398" height="286" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1600537505140" />
+    <state width="1398" height="276" key="GridCell.Tab.1.bottom/0.23.1920.1057@0.23.1920.1057" timestamp="1600680829679" />
+    <state width="1398" height="276" key="GridCell.Tab.1.center" timestamp="1600680829678">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1398" height="286" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1600537505139" />
+    <state width="1398" height="276" key="GridCell.Tab.1.center/0.23.1920.1057@0.23.1920.1057" timestamp="1600680829678" />
+    <state width="1398" height="276" key="GridCell.Tab.1.left" timestamp="1600680829678">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1398" height="286" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1600537505139" />
+    <state width="1398" height="276" key="GridCell.Tab.1.left/0.23.1920.1057@0.23.1920.1057" timestamp="1600680829678" />
+    <state width="1398" height="276" key="GridCell.Tab.1.right" timestamp="1600680829678">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1398" height="286" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1600537505140" />
+    <state width="1398" height="276" key="GridCell.Tab.1.right/0.23.1920.1057@0.23.1920.1057" timestamp="1600680829678" />
+<<<<<<< HEAD
+    <state x="185" y="-24" key="SettingsEditor" timestamp="1602011668836">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="185" y="-24" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1602011668836" />
+=======
+    <state x="345" y="-14" width="919" height="725" key="SettingsEditor" timestamp="1601852028605">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="188" y="-14" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1601313731190" />
+    <state x="345" y="-14" width="919" height="725" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1601852028605" />
+>>>>>>> 779a1b09dc61bc4cf92045108c16f0ffe2c669cc
+    <state x="229" y="100" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1600537963539" />
+    <state x="275" y="47" width="802" height="523" key="Vcs.Push.Dialog.v2" timestamp="1601319126141">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="275" y="47" width="802" height="523" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1601319126141" />
+    <state x="346" y="170" key="run.anything.popup" timestamp="1601315532895">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="346" y="170" key="run.anything.popup/0.0.1366.768@0.0.1366.768" timestamp="1601315532895" />
+    <state x="444" y="339" width="542" height="166" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1601854743252">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="444" y="339" width="542" height="166" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1440.900@0.0.1440.900" timestamp="1601854743252" />
+  </component>
+</project>

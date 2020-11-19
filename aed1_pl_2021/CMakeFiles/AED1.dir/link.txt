@@ -1,0 +1,1 @@
+/usr/bin/gcc -g CMakeFiles/AED1.dir/main.c.o CMakeFiles/AED1.dir/libs_src/lib_stats.c.o CMakeFiles/AED1.dir/libs_src/lib_util.c.o CMakeFiles/AED1.dir/pr00.c.o CMakeFiles/AED1.dir/pr01.c.o -o AED1  -lm 
